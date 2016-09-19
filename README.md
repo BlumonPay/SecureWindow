@@ -5,10 +5,7 @@ Es un API de Integración a páginas web, para realizar pagos de forma segurá.P
 ##Integración HTML
 
 Para una Integración completa es importante incluir en la cabecera de la página lo siguiente:
-```html
-<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
-<script src="http://blumonpay.com/SecureWindow/demo.js" type="text/javascript"></script>
-```
+
 
 ```html
 <script  
@@ -16,7 +13,7 @@ Para una Integración completa es importante incluir en la cabecera de la págin
   data-password = "123"
   data-serial = "888-888-888"
   data-ptid = "888888888"
-  src = " http://blumonpay.com/SecureWindow/transaction.js">
+  src = " http://blumonpay.com/SecureWindow/transactions.js">
 </script>
 
 ```
