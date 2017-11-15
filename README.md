@@ -4,7 +4,7 @@ Es un API de Integración a páginas web, para realizar pagos de forma segurá.P
 
 ##Integración HTML
 
-Para una Integración completa es importante incluir en la cabecera de la página lo siguiente:
+Para una Integración completa es importante incluir esta información en su pagina dependiendo, donde quieran situar el boton 
 
 
 ```html
