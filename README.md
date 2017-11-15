@@ -13,6 +13,8 @@ Para una Integración completa es importante incluir en la cabecera de la págin
   data-password = "123"
   data-serial = "888-888-888"
   data-ptid = "888888888"
+  data-concept="Super"
+  data-amount="11.00"
   src = " http://blumonpay.com/SecureWindow/transactions.js">
 </script>
 
@@ -25,6 +27,8 @@ data-user| Nombre de Usuario
 data-password | Contraseña
 data-serial | Serial de Usuario
 data-ptid | Ptid de usuario
+data-concept |  Este parametro lo envia el programador
+data-amount | Este parametro lo envia el programador
 
 Nota: Los datos antes mencionados se le proporcionan a usuario en el momento que desea utilizar el Botón de Pago Blumon Pay.
 
